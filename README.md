@@ -1,6 +1,6 @@
 SECOND HARD CODING PORTFOLIO & BLOG
 
-![Ss](https://media.licdn.com/dms/image/C5622AQF0waqFZGkAIw/feedshare-shrink_1280/0/1668110239369?e=1717027200&v=beta&t=UY97CJR5rNI0ILYqrLykEmwoDY6jPYZiye_U3SvaRP8)
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -64,11 +64,11 @@ Happy coding!
 
 Karltun Moreno @    Karltunmoreno@gmail.com
 
-Project Link: [https://karltunmoreno.github.io/My-Portfolio/](https://karltunmoreno.github.io/My-Portfolio/)
+Project Link: https://maxkarltun.github.io/My-Portfolio/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/karltun-moreno-0a910a46/
+[linkedin-url]: https://www.linkedin.com/in/max-karltun-0a910a46/
 
 
 ## Features
