@@ -1,90 +1,102 @@
-SECOND HARD CODING PORTFOLIO & BLOG
+# 🚀 My Portfolio & Blog
 
+![Portfolio Preview](https://media.licdn.com/dms/image/C5622AQF0waqFZGkAIw/feedshare-shrink_1280/0/1668110239369?e=1717027200&v=beta&t=UY97CJR5rNI0ILYqrLykEmwoDY6jPYZiye_U3SvaRP8)
 
+<p align="center">
+  A responsive developer portfolio showcasing my work, skills, and contact information.
+</p>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-        <a href="#contact">Contact</a>
-    </li>
+<p align="center">
+  <a href="https://karltunmoreno.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-Online-success?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/MaxKarltun/My-Portfolio"><img src="https://img.shields.io/github/repo-size/MaxKarltun/My-Portfolio?style=for-the-badge&color=blue" /></a>
+  <a href="https://github.com/MaxKarltun/My-Portfolio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/MaxKarltun/My-Portfolio?style=for-the-badge&color=orange" /></a>
+</p>
 
-  </ol>
-</details>
+---
 
-<!-- ABOUT THE PROJECT -->
+## 📚 Table of Contents
 
+- [About The Project](#-about-the-project)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Project Criteria](#-project-criteria)
+- [Live Project](#-live-project)
+- [Contact](#-contact)
+- [Credits](#-credits)
 
-_______________________________________________________________________________________________________________________________________________________________
+---
 
-## Tech Used:
+## 📖 About The Project
 
-  #### Front-end:
- 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+This is my personal portfolio project, built to present:
 
+- 👨‍💻 My background and achievements  
+- 🧩 Projects and repositories I’ve worked on  
+- 📬 Easy ways to connect with me  
 
-### Criteria:
+It is designed with responsiveness in mind so it looks great on desktop, tablet, and mobile devices.
 
-- GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-- THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-- WHEN I click one of the links in the navigation
-- THEN the UI scrolls to the corresponding section
-- WHEN I click on the link to the section about their work
-- THEN the UI scrolls to a section with titled images of the developer's applications
-- WHEN I am presented with the developer's first application
-- THEN that application's image should be larger in size than the others
-- WHEN I click on the images of the applications
-- THEN I am taken to that deployed application
-- WHEN I resize the page or view the site on various screens and devices
-- THEN I am presented with a responsive layout that adapts to my viewport
+---
 
-### What was done.
+## 🛠 Tech Stack
 
-My personal porfolio for the challange is composed of a short bio of my recent employment and achivements.
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-It also have links to Repos and projects I have done.
+---
 
-Thank you for taking time looking at this page.
+## ✨ Features
 
-Happy coding!
+- ✅ Fully responsive layout
+- ✅ Clean and modern UI
+- ✅ Portfolio project cards with links
+- ✅ Smooth section navigation
+- ✅ Built using HTML5, CSS3, JavaScript, and Bootstrap 5
+- ✅ SCSS source support
+- ✅ Font Awesome icon integration
 
+---
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## 🧪 Project Criteria
 
-<!-- CONTACT -->
-## Contact
+- Display developer name, photo/avatar, and navigation links  
+- Navigation scrolls to each relevant section  
+- Work section includes titled project images  
+- First project is visually emphasized  
+- Clicking project images opens deployed applications  
+- Responsive behavior across different screen sizes  
 
-Karltun Moreno @    Karltunmoreno@gmail.com
+---
 
-Project Link: https://maxkarltun.github.io/My-Portfolio/
+## 🌐 Live Project
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/max-karltun-0a910a46/
+🔗 **Deployed Site:**  
+[https://karltunmoreno.github.io/My-Portfolio/](https://karltunmoreno.github.io/My-Portfolio/)
 
+---
 
-## Features
+## 📬 Contact
 
--  Fully Responsive
--  HTML5 + CSS3
--  Built on Bootstrap 5
--  No jQuery dependency
--  **SCSS** source files included
--  1000+ FontAwesome icons
+**Karltun Moreno**  
+📧 karltunmoreno@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
 
+---
 
-## Credits
+## 🙌 Credits
+
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [GitHub Activity Stream](http://caseyscarborough.com/projects/github-activity/)
 - [GitHub Calendar Plugin](https://github.com/karltunmoreno/github-calendar)
 - [Vanilla RSS](https://github.com/sdepold/jquery-rss)
+
+---
+
+<p align="center">
+  Thanks for visiting! ⭐ If you like this project, consider giving it a star.
+</p>
 
