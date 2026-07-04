@@ -80,7 +80,7 @@ https://maxkarltun.github.io/My-Portfolio/
 
 ## 📬 Contact
 
-**Karltun Moreno**  
+**Max Karltun**  
 📧 karltunmoreno@gmail.com  
 💼 [LinkedIn] https://www.linkedin.com/in/max-karltun-0a910a46/
 
