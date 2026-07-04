@@ -74,7 +74,7 @@ It is designed with responsiveness in mind so it looks great on desktop, tablet,
 ## 🌐 Live Project
 
 🔗 **Deployed Site:**  
-[https://karltunmoreno.github.io/My-Portfolio/](https://karltunmoreno.github.io/My-Portfolio/)
+https://maxkarltun.github.io/My-Portfolio/
 
 ---
 
@@ -82,7 +82,7 @@ It is designed with responsiveness in mind so it looks great on desktop, tablet,
 
 **Karltun Moreno**  
 📧 karltunmoreno@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
+💼 [LinkedIn] https://www.linkedin.com/in/max-karltun-0a910a46/
 
 ---
 
